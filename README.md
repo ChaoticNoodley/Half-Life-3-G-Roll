@@ -55,7 +55,28 @@ Como alternativa, consulte a documentação do GitHub em como criar uma solicita
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table> <tr> <td align="center"> <a href="#" title="Perfil de ChaoticNoodley"> <img src="" width="100px;" alt="Foto ChaoticNoodley"/><br> <sub> <b>ChaoticNoodley</b> </sub> </a> </td> <td align="center"> <a href="#" title="Perfil de WellytonSdJ"> <img src="" width="100px;" alt="Foto WellytonSdJ"/><br> <sub> <b>WellytonSdJ</b> </sub> </a> </td> <td align="center"> <a href="#" title="Valve Boss"> <img src="" width="100px;" alt="Gabe Newell"/><br> <sub> <b>Gabe Newell</b> </sub> </a> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChaoticNoodley" title="Perfil de ChaoticNoodley">
+        <img src="" width="100px;" alt="Foto ChaoticNoodley"/><br>
+        <sub><b>ChaoticNoodley</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WellytonSdJ" title="Perfil de WellytonSdJ">
+        <img src="" width="100px;" alt="Foto WellytonSdJ"/><br>
+        <sub><b>WellytonSdJ</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gabe-Newell" title="Perfil de Gabe Newell">
+        <img src="" width="100px;" alt="Gabe Newell"/><br>
+        <sub><b>Gabe Newell</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📝 Licença
 
