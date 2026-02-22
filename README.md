@@ -1,5 +1,5 @@
 Half-Life 3 (Early Access Build)
-<img src="background.png" alt="Half-Life 3 Preview" width="600">
+<img src="Half-Life-3.jpg" alt="Half-Life 3 Preview" width="600">
 
 Vazamento exclusivo dos arquivos binários de Half-Life 3. Este repositório contém o renderizador inicial de shaders e a cinemática de introdução do G-Man em 4K. Arquivos obtidos via acesso remoto aos servidores da Valve.
 
