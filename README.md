@@ -1,78 +1,114 @@
 # Half-Life 3 (Early Access Build)
 
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/iuricode/README-template?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/iuricode/README-template?style=for-the-badge)
 
 <div align="center">
   <img src="Half-Life-3.jpg" alt="Half-Life 3 Preview" width="600"/>
 </div>
 
-> Vazamento exclusivo dos arquivos binários de Half-Life 3. Este repositório contém o renderizador inicial de shaders e a cinemática de introdução do G-Man em 4K. Arquivos obtidos via acesso remoto aos servidores da Valve.
+> ⚠️ **Projeto humorístico/paródia.**  
+> Este repositório NÃO contém código oficial da Valve ou do jogo Half-Life 3.  
+> Tudo aqui é uma brincadeira técnica criada para fins educacionais e de entretenimento.
 
-### Ajustes e melhorias
+---
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+## 🇧🇷 Sobre o projeto
 
-- [x] Integração com motor MPV para cinemáticas
-- [x] Interface básica em PyQt6
-- [x] Sistema de "Compilação de Shaders" fake
-- [ ] Implementação do Ray Tracing (RTX)
-- [ ] Suporte para VR (Valve Index)
+Vazamento exclusivo dos arquivos binários de *Half-Life 3* (😏).  
+Este repositório contém um renderizador inicial de shaders e uma cinemática fictícia de introdução do G-Man em 4K, simulando uma build Alpha do jogo.
 
-## 💻 Pré-requisitos
+Nenhum conteúdo pertence à Valve. Este projeto é apenas uma paródia criada para diversão e aprendizado.
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+---
 
-- Uma máquina SteamOS/Linux.
-- Placa de vídeo compatível com Vulkan.
-- Coragem para enfrentar as consequências do G-Man.
+## 🇺🇸 About the project
 
-## ☕ Usando Half-Life 3
+Exclusive leak of *Half-Life 3* binary files (😏).  
+This repository contains an early shader renderer and a fictional 4K G-Man intro cinematic, simulating an Alpha build of the game.
 
-Para iniciar a experiência, basta baixar o release mais recente e executar o arquivo.  
+No content belongs to Valve. This project is a parody made for fun and educational purposes only.
 
-Aviso: O processo de "Compilação de Shaders" pode levar alguns segundos dependendo do seu hardware. Não feche a janela até que a introdução comece.
+---
 
-## 📫 Contribuindo para Half-Life 3
+## 🔧 Ajustes e melhorias | Improvements
 
-Para contribuir com o desenvolvimento da Source 3 Engine, siga estas etapas:
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para:
 
-Bifurque este repositório.
+- [x] Integração com motor MPV para cinemáticas  
+- [x] Interface básica em PyQt6  
+- [x] Sistema fake de "Compilação de Shaders"  
+- [ ] Implementação do Ray Tracing (RTX)  
+- [ ] Suporte para VR (Valve Index)  
 
-Crie um branch: git checkout -b feature/novo-mapa.
+---
 
-Faça suas alterações e confirme-as: git commit -m 'Adicionando City 17'.
+## 💻 Pré-requisitos | Requirements
 
-Envie para o branch original: git push origin <nome_do_branch>.
+### PT-BR
+Antes de começar, verifique se você possui:
 
-Crie a solicitação de pull.
+- Sistema SteamOS ou Linux  
+- Placa de vídeo compatível com Vulkan  
+- Coragem para enfrentar o G-Man  
 
-Como alternativa, consulte a documentação do GitHub em como criar uma solicitação pull
-.
+### EN
+Before you start, make sure you have:
 
-## 🤝 Colaboradores
+- SteamOS or Linux system  
+- Vulkan-compatible GPU  
+- Courage to face the G-Man  
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+---
 
-<table>
-  <tr>
-    <td align="center">
-  <a href="https://github.com/ChaoticNoodley" title="Perfil de ChaoticNoodley">
-    <img src="https://github.com/ChaoticNoodley.png" width="100px;" alt="Foto ChaoticNoodley"/><br>
-    <sub><b>ChaoticNoodley</b></sub>
-  </a>
-</td>
-    <td align="center">
-      <a href="https://github.com/WellytonSdJ" title="Perfil de WellytonSdJ">
-        <img src="https://github.com/WellytonSdJ.png" width="100px;" alt="Foto WellytonSdJ"/><br>
-        <sub><b>WellytonSdJ</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+## ☕ Usando | How to use
 
-## 📝 Licença
+### PT-BR
+Baixe o release mais recente na aba **Releases**, dê permissão de execução e rode:
 
-Esse projeto está sob a licença "Black Mesa". Veja o arquivo LICENSE
+```bash
+chmod +x half_life_3
+./half_life_3
+```
+> ⚠️ O processo de "Compilação de Shaders" pode levar alguns segundos. Não feche a janela até a introdução iniciar.
+
+### EN
+Download the latest release from the Releases section and run:
+
+```bash
+chmod +x half_life_3
+./half_life_3
+```
+---
+
+## 📫 Contribuindo | Contributing
+
+PT-BR
+- Faça um fork do repositório
+- Crie um branch: git checkout -b feature/nova-feature
+- Commit: git commit -m "Adicionando City 17"
+- Push: git push origin feature/nova-feature
+- Abra um Pull Request
+
+EN
+- Fork the repository
+- Create a branch: git checkout -b feature/new-feature
+- Commit: git commit -m "Add City 17"
+- Push: git push origin feature/new-feature
+- Open a Pull Request
+
+---
+
+🤝 Colaboradores | Contributors
+<table> <tr> <td align="center"> <a href="https://github.com/ChaoticNoodley"> <img src="https://github.com/ChaoticNoodley.png" width="100px;" alt="ChaoticNoodley"/><br> <sub><b>ChaoticNoodley</b></sub> </a> </td> <td align="center"> <a href="https://github.com/WellytonSdJ"> <img src="https://github.com/WellytonSdJ.png" width="100px;" alt="WellytonSdJ"/><br> <sub><b>WellytonSdJ</b></sub> </a> </td> </tr> </table>
+
+---
+
+## 📝 Licença | License
+
+Este projeto está sob a licença MIT (Black Mesa Parody License).
+Veja o arquivo [LICENSE](LICENSE)
  para mais detalhes.
+
+Este projeto não é afiliado à Valve Corporation.
