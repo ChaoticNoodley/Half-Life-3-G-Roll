@@ -3,6 +3,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/iuricode/README-template?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/iuricode/README-template?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v0.1%20alpha-blue?style=for-the-badge)
+![License](https://img.shields.io/github/license/ChaoticNoodley/Half-Life-3-G-Roll?style=for-the-badge)
 
 <div align="center">
   <img src="Half-Life-3.jpg" alt="Half-Life 3 Preview" width="600"/>
