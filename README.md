@@ -65,7 +65,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </td>
     <td align="center">
       <a href="https://github.com/WellytonSdJ" title="Perfil de WellytonSdJ">
-        <img src="" width="100px;" alt="Foto WellytonSdJ"/><br>
+        <img src="https://github.com/WellytonSdJ.png" width="100px;" alt="Foto WellytonSdJ"/><br>
         <sub><b>WellytonSdJ</b></sub>
       </a>
     </td>
